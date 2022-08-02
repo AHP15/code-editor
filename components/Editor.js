@@ -22,7 +22,6 @@ export default function Editor({lang, value, onChange, extension}){
               extensions={[extension()]}
               onChange={(value, viewUpdate) =>{
                 onChange(value);
-                console.log(value);
               }}
             />
         </div>
