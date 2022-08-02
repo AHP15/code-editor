@@ -29,6 +29,7 @@ export default function Home() {
 
   return (
     <>
+      <h1 className="page_title">Code Editor (HTML/CSS/JS)</h1>
       <div className="pane top-pane">
         <Editor
             lang="HTML"

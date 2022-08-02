@@ -76,3 +76,10 @@ a {
   border:none;
   border-radius:5px;
 }
+.page_title{
+  background-color:rgb(8, 8, 41);
+  text-align:center;
+  padding:20px;
+  color:white;
+  margin:0px;
+}
