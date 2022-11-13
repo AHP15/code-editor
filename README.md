@@ -17,7 +17,7 @@ This is an online code editor for JavaScript, HTML, and CSS, buit with React.js,
 
 1. Run the command
 ```bash
-git clone https://github.com/Abdessittir/code-editor
+git clone https://github.com/Abdessittir/code-editor.git
 ```
 2. And Run the command
 ```bash
